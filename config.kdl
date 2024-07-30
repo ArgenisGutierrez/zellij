@@ -244,22 +244,22 @@ keybinds clear-defaults=true {
  }
 
 themes {
-    kanagawa_dragon {
+    my_theme {
         fg "#dcdccc"
         bg "#1a1a1a"
         red "#C34043"
-        green "#728F66"
+        green "#2a678c"
         yellow "#9D8F6F"
         blue "#8BA4B0"
-        magenta "#ff79c6"
+        magenta "#3a7d8c"
         cyan "#8be9fd"
-        orange "#ffb86c"
+        orange "#9bf2f2"
         black "#282828"
         white "#8D908D"
     }
 }
 
-theme "kanagawa_dragon"
+theme "my_theme"
 
 default_layout "work"
 
